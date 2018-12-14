@@ -3,7 +3,7 @@
 elasticsearch에서 제공하는 apm-agent 적용 예제
 
 ## Building app
-빌드할 때 테스트는 스킵한다.
+
 
     $./mvnw clean install -DskipTests
     
